@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n1gh7shift
+- 👋 Hi, I’m Murray Jones - @n1gh7shift
 - 👀 I’m interested in the development of Audio Visual products and solutions.
 - 🌱 I’m currently learning Crestron, Blazor and C# Development.
 - 💞️ I’m looking to collaborate on ... things?
